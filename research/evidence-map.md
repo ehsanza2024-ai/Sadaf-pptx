@@ -18,7 +18,7 @@
 1. Al-Nimer MSM, Al-Basri AK, Satrmbekova D, Datkhayev UM. *The Reasons Behind the Salubrious of Colostrum on the Cognitive Functions: A Systematic Review.* Tropical Journal of Natural Product Research. 2022;6(7). DOI: https://doi.org/10.26538/tjnpr/v6i7.4  
    - مرور ۲۱۹ گزارش را غربال کرد و متن کامل/چکیدهٔ ۲۵ مقاله را بررسی کرد؛ خود مرور نیز انجام مطالعات بیشتر را ضروری می‌داند. دامنهٔ انواع مطالعه/فرآورده‌ها ناهمگون است.
 2. Banasiak-Cieślar G, et al. *Proline-rich polypeptides (Colostrinin®/COLOCO®) modulate BDNF concentration in blood affecting cognitive function in adults: A double-blind randomized placebo-controlled study.* Food Science & Nutrition. 2023. DOI: https://doi.org/10.1002/fsn3.3187  
-   - ۳۶۱ داوطلب سالم، گروه‌های سنی ۱۸–۲۴، ۲۵–۵۴ و ۵۵–۷۵ سال؛ فرآوردهٔ اختصاصی PRP با ۱۲۰ میکروگرم برای چهار ماه. گزارش نتایج در آزمون‌های شناختی بسته به گروه سنی متفاوت بود و BDNF سرم افزایش یافت. تغییر نشانگر به‌تنهایی اثر بالینی قطعی را ثابت نمی‌کند.
+   - ۳۶۱ داوطلب سالم، گروه‌های سنی ۱۸–۲۴، ۲۵–۵۴ و ۵۵–۷۵ سال؛ فرآوردهٔ اختصاصی PRP با ۱۲۰ میکروگرم برای چهار ماه. گزارش نتایج در آزمون‌های شناختی بسته به گروه سنی متفاوت بود و BDNF سرم افزایش یافت. مقاله تأمین مالی Geo-Poland را اعلام می‌کند و می‌گوید داده‌ها به‌صورت عمومی به اشتراک گذاشته نشده‌اند؛ این موارد در تفسیر انتقادی و نیاز به تکرار مستقل مهم‌اند. تغییر نشانگر به‌تنهایی اثر بالینی قطعی را ثابت نمی‌کند.
 3. Jensen et al. / *Bovine Colostrum Applications in Sick and Healthy People: A Systematic Review.* 2021. PubMed: https://pubmed.ncbi.nlm.nih.gov/34202206/  
    - مرور گستردهٔ کاربردهای کلستروم؛ ناهمگنی در جمعیت، مداخله، پیامد و خطر سوگیری را گزارش می‌کند.
 
